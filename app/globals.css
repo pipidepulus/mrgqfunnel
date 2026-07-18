@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0a192f;
+  --color-accent: #00d1ff;
+  --font-family-montserrat: 'Montserrat', sans-serif;
+}
